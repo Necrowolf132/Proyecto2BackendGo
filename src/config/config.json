@@ -1,8 +1,0 @@
-{
-  "database": {
-    "server": "localhost",
-    "port": "3306",
-    "userlogin": "root",
-    "clave" : "25448132"
-  }
-}

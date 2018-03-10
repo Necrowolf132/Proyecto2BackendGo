@@ -1,7 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86de713e-d311-4ac4-8135-b8c7603b197f" name="Default" comment="" />
+    <list default="true" id="86de713e-d311-4ac4-8135-b8c7603b197f" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/dep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/gofacilito" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/gofacilito.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/gofacilito/conectarGeneral.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/gofacilito/config.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/gofacilito/modelos.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/gofacilito" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/bin/govendor" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/cliprompt.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/context.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/help.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/internal/pathos.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/internal/vfilepath.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/internal/vos.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/migrate.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/pkgspec.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/prompt.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/run.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/vcs.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/vendor/github.com/Bowery/prompt.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/vendor/github.com/dchest/safefile.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/vendor/github.com/google/shlex.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/vendor/github.com/pkg/errors.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/vendor/golang.org/x/sys/unix.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/vendor/golang.org/x/tools/go/vcs.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/vendor/gopkg.in/yaml.v2.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/vendorfile.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Autentificacion/Auth.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/antiguioserver.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/conectarGeneral/conector.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/config/config.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/config/config.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/dgrijalva/jwt-go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/go-sql-driver/mysql" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/gorilla/mux" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/kardianos/govendor" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/keys/private.rsa" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/keys/public.rsa.pub" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/login/login.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/modelos/Usr.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/modelos/modelosDeRespuesta.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/nucleo/importJson.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/3rdpartylicenses.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/Roboto-Bold.c0f1e4a4fdfb8048c72e.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/Roboto-Bold.eed9aab5449cc9c8430d.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/Roboto-Light.3c37aa69cd77e6a53a06.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/Roboto-Light.ea36cd9a0e9eee97012a.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/Roboto-Medium.1561b424aaef2f704bbd.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/Roboto-Medium.cf4d60bc0b1d4b231408.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/Roboto-Regular.3cf6adf61054c328b1b0.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/Roboto-Regular.5136cbe62a63604402f2.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/Roboto-Thin.1f35e6a11d27d2e10d28.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/Roboto-Thin.44b78f142603eb69f593.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/assets/img/Escudo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/assets/img/apple-touch-icon-152x152.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/assets/img/background1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/assets/img/background2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/assets/img/background3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/assets/img/blue-circuit-board_1527708.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/assets/img/favicon-32x32.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/assets/img/mstile-144x144.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/assets/img/parallax.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/assets/img/pizarra.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/assets/img/sample.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/assets/img/slider1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/assets/img/slider2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/assets/img/slider3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/assets/img/slider4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/assets/img/user.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/assets/js/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/blue-circuit-board_1527708.7301af734ea424b7ec1d.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/inline.e2199081ddc9f79856bf.bundle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/main.7f09a9fd248ea4115e93.bundle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/css/_pgbackup/materialize_1519245456.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/css/materialize.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/css/materialize.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/css/materialize_prev.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/material-design-icons/LICENSE.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/material-design-icons/Material-Design-Icons.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/material-design-icons/Material-Design-Icons.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/material-design-icons/Material-Design-Icons.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/material-design-icons/Material-Design-Icons.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/material-design-icons/Material-Design-Icons.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Bold.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Bold.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Bold.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Bold.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Light.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Light.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Light.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Light.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Medium.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Medium.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Medium.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Medium.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Thin.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Thin.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Thin.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Thin.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/fonts/roboto/Roboto-Bold.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/fonts/roboto/Roboto-Bold.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/fonts/roboto/Roboto-Light.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/fonts/roboto/Roboto-Light.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/fonts/roboto/Roboto-Medium.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/fonts/roboto/Roboto-Medium.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/fonts/roboto/Roboto-Regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/fonts/roboto/Roboto-Regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/fonts/roboto/Roboto-Thin.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/fonts/roboto/Roboto-Thin.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/js/materialize.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/materialize/js/materialize.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/polyfills.f20484b2fa4642e0dca8.bundle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/scripts.f473a0a112e53a67ae4e.bundle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/public/styles.379c1664fdd1c0762de2.bundle.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/vendor/vendor.json" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,23 +134,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main.go">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/gofacilito/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="972">
-              <caret line="54" column="5" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-              <folding>
-                <element signature="e#13#134#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="287">
+              <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vendor.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/vendor/vendor.json">
+      <file leaf-file-name="Gopkg.toml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gofacilito/Gopkg.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="394">
+              <caret line="50" column="33" lean-forward="false" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -57,8 +178,16 @@
         <option value="$PROJECT_DIR$/src/modelos/Usr.go" />
         <option value="$PROJECT_DIR$/src/Autentificacion/Auth.go" />
         <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/src/Procfile" />
+        <option value="$PROJECT_DIR$/src/vendor/modelos/Usr.go" />
         <option value="$PROJECT_DIR$/src/main.go" />
+        <option value="$PROJECT_DIR$/src/gofacilito/conectarGeneral/conector.go" />
         <option value="$PROJECT_DIR$/src/vendor/vendor.json" />
+        <option value="$PROJECT_DIR$/src/gofacilito/modelos/Usr.go" />
+        <option value="$PROJECT_DIR$/src/gofacilito/Autentificacion/Auth.go" />
+        <option value="$PROJECT_DIR$/src/gofacilito/login/login.go" />
+        <option value="$PROJECT_DIR$/src/gofacilito/Gopkg.toml" />
+        <option value="$PROJECT_DIR$/src/gofacilito/main.go" />
       </list>
     </option>
   </component>
@@ -90,6 +219,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,12 +233,23 @@
               <item name="Proyecto2BackendGo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Proyecto2BackendGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proyecto2BackendGo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gofacilito" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Proyecto2BackendGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proyecto2BackendGo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gofacilito" type="462c0819:PsiDirectoryNode" />
+              <item name="github.com" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,17 +283,17 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="0" width="1288" height="995" extended-state="6" />
+    <frame x="10" y="20" width="1288" height="995" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21231766" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21555915" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.5032415" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32756633" sideWeight="0.50648296" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32871974" sideWeight="0.49675852" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32756633" sideWeight="0.493517" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -159,6 +301,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -170,21 +313,51 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/vendor/modelos/Usr.go</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/gofacilito/main.go</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main.go">
+    <entry file="file://$PROJECT_DIR$/src/gofacilito/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#13#134#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="54">
+          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/gofacilito/Gopkg.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.go" />
+    <entry file="file://$PROJECT_DIR$/Gopkg.toml" />
+    <entry file="file://$PROJECT_DIR$/conectarGeneral/conector.go" />
+    <entry file="file://$PROJECT_DIR$/src/modelos/Usr.go" />
+    <entry file="file://$PROJECT_DIR$/src/modelos/modelosDeRespuesta.go" />
+    <entry file="file://$PROJECT_DIR$/src/login/login.go" />
+    <entry file="file://$PROJECT_DIR$/src/config/config.go" />
+    <entry file="file://$PROJECT_DIR$/src/conectarGeneral/conector.go" />
+    <entry file="file://$PROJECT_DIR$/src/Autentificacion/Auth.go" />
+    <entry file="file://$PROJECT_DIR$/vendor/vendor.json" />
+    <entry file="file://$PROJECT_DIR$/Procfile" />
+    <entry file="file://$PROJECT_DIR$/src/Procfile" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -192,51 +365,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gopkg.toml" />
-    <entry file="file://$PROJECT_DIR$/conectarGeneral/conector.go" />
-    <entry file="file://$PROJECT_DIR$/src/modelos/Usr.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/modelos/modelosDeRespuesta.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/login/login.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/config/config.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/conectarGeneral/conector.go">
+    <entry file="file://$PROJECT_DIR$/src/vendor/modelos/Usr.go" />
+    <entry file="file://$PROJECT_DIR$/src/vendor/config/config.go" />
+    <entry file="file://$PROJECT_DIR$/src/vendor/conectarGeneral/conector.go" />
+    <entry file="file://$PROJECT_DIR$/src/main.go" />
+    <entry file="file://$PROJECT_DIR$/src/gofacilito/conectarGeneral/conector.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Autentificacion/Auth.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/vendor.json">
+    <entry file="file://$PROJECT_DIR$/src/gofacilito/vendor/vendor.json" />
+    <entry file="file://$PROJECT_DIR$/src/vendor/vendor.json" />
+    <entry file="file://$PROJECT_DIR$/src/gofacilito/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -244,28 +386,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
+    <entry file="file://$PROJECT_DIR$/src/gofacilito/modelos/Usr.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+        <state relative-caret-position="18">
+          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.go">
+    <entry file="file://$PROJECT_DIR$/src/gofacilito/Autentificacion/Auth.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="54" column="5" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding>
-            <element signature="e#13#134#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="144">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vendor/vendor.json">
+    <entry file="file://$PROJECT_DIR$/src/gofacilito/login/login.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gofacilito/Gopkg.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="50" column="33" lean-forward="false" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gofacilito/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
           <folding />
         </state>
       </provider>
