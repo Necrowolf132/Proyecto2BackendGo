@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86de713e-d311-4ac4-8135-b8c7603b197f" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/backend.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/govendor" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/github.com/dgrijalva/jwt-go.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/github.com/go-sql-driver/mysql.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/github.com/gorilla/mux.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/cliprompt.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/context.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/help.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/internal/pathos.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/internal/vfilepath.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/internal/vos.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/migrate.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/pkgspec.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/prompt.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/run.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/vcs.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/vendor/github.com/Bowery/prompt.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/vendor/github.com/dchest/safefile.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/vendor/github.com/google/shlex.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/vendor/github.com/pkg/errors.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/vendor/golang.org/x/sys/unix.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/vendor/golang.org/x/tools/go/vcs.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/vendor/gopkg.in/yaml.v2.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pkg/linux_amd64/github.com/kardianos/govendor/vendorfile.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Autentificacion/Auth.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/antiguioserver.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/conectarGeneral/conector.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/config/config.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/config/config.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/github.com/dgrijalva/jwt-go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/github.com/go-sql-driver/mysql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/github.com/gorilla/mux" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/github.com/kardianos/govendor" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/keys/private.rsa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/keys/public.rsa.pub" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/login/login.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/modelos/Usr.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/modelos/modelosDeRespuesta.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/nucleo/importJson.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/vendor/vendor.json" />
+      <change beforePath="$PROJECT_DIR$/Autentificacion/Auth.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Gopkg.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Gopkg.toml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Procfile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/antiguioserver.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/conectarGeneral/conector.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/config/config.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/config/config.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/keys/private.rsa" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/keys/public.rsa.pub" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/login/login.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modelos/Usr.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modelos/modelosDeRespuesta.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/dgrijalva/jwt-go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/gorilla/mux" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/importJson.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/.github/ISSUE_TEMPLATE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/.github/PULL_REQUEST_TEMPLATE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/.travis/docker.cnf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/.travis/wait_mysql.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/AUTHORS" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/CONTRIBUTING.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/appengine.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/benchmark_go18_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/benchmark_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/buffer.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/collations.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/connection.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/connection_go18.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/connection_go18_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/connection_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/const.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/driver.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/driver_go18_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/driver_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/dsn.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/dsn_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/errors.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/errors_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/fields.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/infile.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/packets.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/packets_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/result.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/rows.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/statement.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/statement_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/transaction.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/utils.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/utils_go17.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/utils_go18.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/utils_go18_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nucleo/mysql-master/utils_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/3rdpartylicenses.txt" afterPath="$PROJECT_DIR$/src/public/3rdpartylicenses.txt" />
+      <change beforePath="$PROJECT_DIR$/public/Roboto-Bold.c0f1e4a4fdfb8048c72e.woff2" afterPath="$PROJECT_DIR$/src/public/Roboto-Bold.c0f1e4a4fdfb8048c72e.woff2" />
+      <change beforePath="$PROJECT_DIR$/public/Roboto-Bold.eed9aab5449cc9c8430d.woff" afterPath="$PROJECT_DIR$/src/public/Roboto-Bold.eed9aab5449cc9c8430d.woff" />
+      <change beforePath="$PROJECT_DIR$/public/Roboto-Light.3c37aa69cd77e6a53a06.woff2" afterPath="$PROJECT_DIR$/src/public/Roboto-Light.3c37aa69cd77e6a53a06.woff2" />
+      <change beforePath="$PROJECT_DIR$/public/Roboto-Light.ea36cd9a0e9eee97012a.woff" afterPath="$PROJECT_DIR$/src/public/Roboto-Light.ea36cd9a0e9eee97012a.woff" />
+      <change beforePath="$PROJECT_DIR$/public/Roboto-Medium.1561b424aaef2f704bbd.woff2" afterPath="$PROJECT_DIR$/src/public/Roboto-Medium.1561b424aaef2f704bbd.woff2" />
+      <change beforePath="$PROJECT_DIR$/public/Roboto-Medium.cf4d60bc0b1d4b231408.woff" afterPath="$PROJECT_DIR$/src/public/Roboto-Medium.cf4d60bc0b1d4b231408.woff" />
+      <change beforePath="$PROJECT_DIR$/public/Roboto-Regular.3cf6adf61054c328b1b0.woff" afterPath="$PROJECT_DIR$/src/public/Roboto-Regular.3cf6adf61054c328b1b0.woff" />
+      <change beforePath="$PROJECT_DIR$/public/Roboto-Regular.5136cbe62a63604402f2.woff2" afterPath="$PROJECT_DIR$/src/public/Roboto-Regular.5136cbe62a63604402f2.woff2" />
+      <change beforePath="$PROJECT_DIR$/public/Roboto-Thin.1f35e6a11d27d2e10d28.woff2" afterPath="$PROJECT_DIR$/src/public/Roboto-Thin.1f35e6a11d27d2e10d28.woff2" />
+      <change beforePath="$PROJECT_DIR$/public/Roboto-Thin.44b78f142603eb69f593.woff" afterPath="$PROJECT_DIR$/src/public/Roboto-Thin.44b78f142603eb69f593.woff" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/Escudo.png" afterPath="$PROJECT_DIR$/src/public/assets/img/Escudo.png" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/apple-touch-icon-152x152.png" afterPath="$PROJECT_DIR$/src/public/assets/img/apple-touch-icon-152x152.png" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/background1.jpg" afterPath="$PROJECT_DIR$/src/public/assets/img/background1.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/background2.jpg" afterPath="$PROJECT_DIR$/src/public/assets/img/background2.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/background3.jpg" afterPath="$PROJECT_DIR$/src/public/assets/img/background3.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/blue-circuit-board_1527708.jpg" afterPath="$PROJECT_DIR$/src/public/assets/img/blue-circuit-board_1527708.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/favicon-32x32.png" afterPath="$PROJECT_DIR$/src/public/assets/img/favicon-32x32.png" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/mstile-144x144.png" afterPath="$PROJECT_DIR$/src/public/assets/img/mstile-144x144.png" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/parallax.jpg" afterPath="$PROJECT_DIR$/src/public/assets/img/parallax.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/pizarra.png" afterPath="$PROJECT_DIR$/src/public/assets/img/pizarra.png" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/sample.jpg" afterPath="$PROJECT_DIR$/src/public/assets/img/sample.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/slider1.jpg" afterPath="$PROJECT_DIR$/src/public/assets/img/slider1.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/slider2.jpg" afterPath="$PROJECT_DIR$/src/public/assets/img/slider2.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/slider3.jpg" afterPath="$PROJECT_DIR$/src/public/assets/img/slider3.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/slider4.jpg" afterPath="$PROJECT_DIR$/src/public/assets/img/slider4.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/user.png" afterPath="$PROJECT_DIR$/src/public/assets/img/user.png" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/jquery.min.js" afterPath="$PROJECT_DIR$/src/public/assets/js/jquery.min.js" />
+      <change beforePath="$PROJECT_DIR$/public/blue-circuit-board_1527708.7301af734ea424b7ec1d.jpg" afterPath="$PROJECT_DIR$/src/public/blue-circuit-board_1527708.7301af734ea424b7ec1d.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/src/public/index.html" />
+      <change beforePath="$PROJECT_DIR$/public/inline.e2199081ddc9f79856bf.bundle.js" afterPath="$PROJECT_DIR$/src/public/inline.e2199081ddc9f79856bf.bundle.js" />
+      <change beforePath="$PROJECT_DIR$/public/main.7f09a9fd248ea4115e93.bundle.js" afterPath="$PROJECT_DIR$/src/public/main.7f09a9fd248ea4115e93.bundle.js" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/css/_pgbackup/materialize_1519245456.css" afterPath="$PROJECT_DIR$/src/public/materialize/css/_pgbackup/materialize_1519245456.css" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/css/materialize.css" afterPath="$PROJECT_DIR$/src/public/materialize/css/materialize.css" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/css/materialize.min.css" afterPath="$PROJECT_DIR$/src/public/materialize/css/materialize.min.css" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/css/materialize_prev.css" afterPath="$PROJECT_DIR$/src/public/materialize/css/materialize_prev.css" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/material-design-icons/LICENSE.txt" afterPath="$PROJECT_DIR$/src/public/materialize/font/material-design-icons/LICENSE.txt" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/material-design-icons/Material-Design-Icons.eot" afterPath="$PROJECT_DIR$/src/public/materialize/font/material-design-icons/Material-Design-Icons.eot" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/material-design-icons/Material-Design-Icons.svg" afterPath="$PROJECT_DIR$/src/public/materialize/font/material-design-icons/Material-Design-Icons.svg" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/material-design-icons/Material-Design-Icons.ttf" afterPath="$PROJECT_DIR$/src/public/materialize/font/material-design-icons/Material-Design-Icons.ttf" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/material-design-icons/Material-Design-Icons.woff" afterPath="$PROJECT_DIR$/src/public/materialize/font/material-design-icons/Material-Design-Icons.woff" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/material-design-icons/Material-Design-Icons.woff2" afterPath="$PROJECT_DIR$/src/public/materialize/font/material-design-icons/Material-Design-Icons.woff2" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/roboto/Roboto-Bold.eot" afterPath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Bold.eot" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/roboto/Roboto-Bold.ttf" afterPath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Bold.ttf" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/roboto/Roboto-Bold.woff" afterPath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Bold.woff" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/roboto/Roboto-Bold.woff2" afterPath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Bold.woff2" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/roboto/Roboto-Light.eot" afterPath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Light.eot" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/roboto/Roboto-Light.ttf" afterPath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Light.ttf" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/roboto/Roboto-Light.woff" afterPath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Light.woff" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/roboto/Roboto-Light.woff2" afterPath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Light.woff2" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/roboto/Roboto-Medium.eot" afterPath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Medium.eot" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/roboto/Roboto-Medium.ttf" afterPath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Medium.ttf" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/roboto/Roboto-Medium.woff" afterPath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Medium.woff" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/roboto/Roboto-Medium.woff2" afterPath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Medium.woff2" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/roboto/Roboto-Regular.eot" afterPath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Regular.eot" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/roboto/Roboto-Regular.ttf" afterPath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/roboto/Roboto-Regular.woff" afterPath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Regular.woff" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/roboto/Roboto-Regular.woff2" afterPath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Regular.woff2" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/roboto/Roboto-Thin.eot" afterPath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Thin.eot" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/roboto/Roboto-Thin.ttf" afterPath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Thin.ttf" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/roboto/Roboto-Thin.woff" afterPath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Thin.woff" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/font/roboto/Roboto-Thin.woff2" afterPath="$PROJECT_DIR$/src/public/materialize/font/roboto/Roboto-Thin.woff2" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/fonts/roboto/Roboto-Bold.woff" afterPath="$PROJECT_DIR$/src/public/materialize/fonts/roboto/Roboto-Bold.woff" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/fonts/roboto/Roboto-Bold.woff2" afterPath="$PROJECT_DIR$/src/public/materialize/fonts/roboto/Roboto-Bold.woff2" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/fonts/roboto/Roboto-Light.woff" afterPath="$PROJECT_DIR$/src/public/materialize/fonts/roboto/Roboto-Light.woff" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/fonts/roboto/Roboto-Light.woff2" afterPath="$PROJECT_DIR$/src/public/materialize/fonts/roboto/Roboto-Light.woff2" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/fonts/roboto/Roboto-Medium.woff" afterPath="$PROJECT_DIR$/src/public/materialize/fonts/roboto/Roboto-Medium.woff" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/fonts/roboto/Roboto-Medium.woff2" afterPath="$PROJECT_DIR$/src/public/materialize/fonts/roboto/Roboto-Medium.woff2" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/fonts/roboto/Roboto-Regular.woff" afterPath="$PROJECT_DIR$/src/public/materialize/fonts/roboto/Roboto-Regular.woff" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/fonts/roboto/Roboto-Regular.woff2" afterPath="$PROJECT_DIR$/src/public/materialize/fonts/roboto/Roboto-Regular.woff2" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/fonts/roboto/Roboto-Thin.woff" afterPath="$PROJECT_DIR$/src/public/materialize/fonts/roboto/Roboto-Thin.woff" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/fonts/roboto/Roboto-Thin.woff2" afterPath="$PROJECT_DIR$/src/public/materialize/fonts/roboto/Roboto-Thin.woff2" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/js/materialize.js" afterPath="$PROJECT_DIR$/src/public/materialize/js/materialize.js" />
+      <change beforePath="$PROJECT_DIR$/public/materialize/js/materialize.min.js" afterPath="$PROJECT_DIR$/src/public/materialize/js/materialize.min.js" />
+      <change beforePath="$PROJECT_DIR$/public/polyfills.f20484b2fa4642e0dca8.bundle.js" afterPath="$PROJECT_DIR$/src/public/polyfills.f20484b2fa4642e0dca8.bundle.js" />
+      <change beforePath="$PROJECT_DIR$/public/scripts.f473a0a112e53a67ae4e.bundle.js" afterPath="$PROJECT_DIR$/src/public/scripts.f473a0a112e53a67ae4e.bundle.js" />
+      <change beforePath="$PROJECT_DIR$/public/styles.379c1664fdd1c0762de2.bundle.css" afterPath="$PROJECT_DIR$/src/public/styles.379c1664fdd1c0762de2.bundle.css" />
+      <change beforePath="$PROJECT_DIR$/server" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server.go" afterPath="$PROJECT_DIR$/src/main.go" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/MIGRATION_GUIDE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/VERSION_HISTORY.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/claims.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/doc.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/ecdsa.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/ecdsa_utils.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/errors.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/hmac.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/map_claims.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/none.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/parser.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/request/doc.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/request/extractor.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/request/oauth2.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/request/request.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/rsa.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/rsa_pss.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/rsa_utils.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/signing_method.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/test/ec256-private.pem" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/test/ec256-public.pem" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/test/ec384-private.pem" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/test/ec384-public.pem" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/test/ec512-private.pem" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/test/ec512-public.pem" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/test/helpers.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/test/hmacTestKey" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/test/sample_key" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/test/sample_key.pub" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/dgrijalva/jwt-go/token.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/context/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/context/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/context/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/context/context.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/context/doc.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/mux/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/mux/ISSUE_TEMPLATE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/mux/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/mux/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/mux/context_gorilla.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/mux/context_native.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/mux/doc.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/mux/middleware.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/mux/mux.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/mux/regexp.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/mux/route.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gorilla/mux/test_helpers.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/cloudsql/cloudsql.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/cloudsql/cloudsql_classic.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/cloudsql/cloudsql_vm.go" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="972">
+              <caret line="54" column="5" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+              <folding>
+                <element signature="e#13#134#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vendor.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/vendor/vendor.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="56" lean-forward="true" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Gopkg.toml" />
+        <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/conectarGeneral/conector.go" />
+        <option value="$PROJECT_DIR$/server.go" />
+        <option value="$PROJECT_DIR$/src/login/login.go" />
+        <option value="$PROJECT_DIR$/src/modelos/Usr.go" />
+        <option value="$PROJECT_DIR$/src/Autentificacion/Auth.go" />
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/src/main.go" />
+        <option value="$PROJECT_DIR$/src/vendor/vendor.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1260" />
+    <option name="height" value="951" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Proyecto2BackendGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proyecto2BackendGo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Proyecto2BackendGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proyecto2BackendGo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="0" width="1288" height="995" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21231766" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.5032415" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32871974" sideWeight="0.49675852" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#13#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gopkg.toml" />
+    <entry file="file://$PROJECT_DIR$/conectarGeneral/conector.go" />
+    <entry file="file://$PROJECT_DIR$/src/modelos/Usr.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modelos/modelosDeRespuesta.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/login/login.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/config.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/conectarGeneral/conector.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Autentificacion/Auth.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/vendor.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="54" column="5" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding>
+            <element signature="e#13#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vendor/vendor.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="56" lean-forward="true" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
